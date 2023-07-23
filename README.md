@@ -30,7 +30,7 @@ Y alguna más...
 - Data Engineering & MLOps
     - [Movies Repository](https://github.com/AlanTilca/PI_ML_OPS)
 - Data Analytics & Visualization
-    - Datos abiertos Enacom (en curso)
+    - [Datos abiertos Enacom](https://github.com/AlanTilca/Enacom_Analytics)
 - Pruebas API & Dashboard
     - [Rick&MortyAPI Dashboard](https://github.com/AlanTilca/rickmortyAPI-Dashboard)
 - Templates
