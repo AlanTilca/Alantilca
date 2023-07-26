@@ -1,9 +1,9 @@
 # Hola, mi nombre es Alan Tilca 👋
-### Data Science | Python | SQL | PowerBI
+### Data Analytics | Python | SQL | PowerBI
 
 
 
-Soy estudiante de Data Science y Business Intelligence.
+Soy estudiante de Data Science, enfocado en el área de Data Analytics y Business Intelligence.
 
 Mis primeros pasos por el ámbito de los datos vienen de la mano con un bootcamp intensivo llamado SoyHenry que me fue introducido en el año 2022, luego en 2023 con mis conocimientos de programación y base de datos más interiorizados decidí por fin entrar y aventurarme en las distintas etapas de la ciencia de datos.
 
