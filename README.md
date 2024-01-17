@@ -25,6 +25,9 @@ Mis primeros pasos por el ámbito de los datos vienen de la mano con un bootcamp
 Y alguna más...
 
 
+## Viz
+
+
 ## Proyectos
 
 - Data Engineering & MLOps
