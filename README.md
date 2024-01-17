@@ -26,7 +26,11 @@ Y alguna más...
 
 
 ## Viz
+![viz](VIZ/dasdh2.png)
+![viz](VIZ/Contaminaciondash.png)
 ![viz](VIZ/dash.png)
+![viz](VIZ/electric.png)
+![viz](VIZ/forecast.png)
 
 
 ## Proyectos
@@ -35,8 +39,11 @@ Y alguna más...
     - [Movies Repository](https://github.com/AlanTilca/PI_ML_OPS)
 - Data Analytics & Visualization
     - [Datos abiertos Enacom](https://github.com/AlanTilca/Enacom_Analytics)
+![viz](VIZ/enacom_dashboard.png)
+![viz](VIZ/enacom_dashboard2.png)
 - Pruebas API & Dashboard
     - [Rick&MortyAPI Dashboard](https://github.com/AlanTilca/rickmortyAPI-Dashboard)
+![viz](VIZ/rick&morty_dashboard.png)
 - Templates
     - [ETL_EDA template](https://github.com/AlanTilca/ETL_EDA_template)
 
