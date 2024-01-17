@@ -26,6 +26,7 @@ Y alguna más...
 
 
 ## Viz
+![viz](VIZ/dash.png)
 
 
 ## Proyectos
