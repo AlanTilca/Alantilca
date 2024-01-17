@@ -5,9 +5,9 @@
 
 Soy estudiante de Data Science, enfocado en el área de Data Analytics y Business Intelligence.
 
-Mis primeros pasos por el ámbito de los datos vienen de la mano con un bootcamp intensivo llamado SoyHenry que me fue introducido en el año 2022, luego en 2023 con mis conocimientos de programación y base de datos más interiorizados decidí por fin entrar y aventurarme en las distintas etapas de la ciencia de datos.
+Mis primeros pasos por el ámbito de los datos vienen de la mano con un bootcamp intensivo llamado SoyHenry que me fue introducido en el año 2022, luego en 2023 con mis conocimientos de programación y base de datos más interiorizados, decidí por fin entrar y aventurarme en las distintas etapas de la ciencia de datos.
 
-> 🟡 [SoyHenry](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gad=1&gclid=CjwKCAjw5MOlBhBTEiwAAJ8e1ge1E5rzW94chcVIeBXRHf9O3rKK1QJVRPpyE8Io14KyCZoOgmkEnhoCqnQQAvD_BwE) Bootcamp de DataScience que consta de 6 módulos teórico prácticos, donde se ven librerias de análisis de datos como Pandas o Matplotlib, bases de datos relacionales y no relacionales, herramientas de visualización como PowerBI y un acercamiento al Machine Learning.
+> 🟡 [SoyHenry](https://www.soyhenry.com/?utm_source=google&utm_medium=cpc&utm_campaign=GADS_SEARCH_ARG_BRAND&utm_content=brand&gad=1&gclid=CjwKCAjw5MOlBhBTEiwAAJ8e1ge1E5rzW94chcVIeBXRHf9O3rKK1QJVRPpyE8Io14KyCZoOgmkEnhoCqnQQAvD_BwE) Bootcamp de DataScience que consta de 6 módulos teórico prácticos, donde se estudian librerias de análisis de datos como Pandas o Matplotlib, bases de datos relacionales y no relacionales, herramientas de visualización como PowerBI o Tableau y distintas técnicas de Machine Learning.
 ## Tecnologías:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
