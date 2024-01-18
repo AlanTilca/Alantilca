@@ -1,5 +1,5 @@
 # Hola, mi nombre es Alan Tilca 👋
-### Data Analytics | Python | SQL | PowerBI
+### Data Analyst Junior | Python | SQL | PowerBI
 
 
 
